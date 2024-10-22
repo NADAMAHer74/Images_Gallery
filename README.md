@@ -1,2 +1,6 @@
 # Images_Gallery
-Created with CodeSandbox
+## npm i
+## npm start
+--------------------------------------------
+# Live Demo 
+https://galleryimageswebsite.netlify.app/
